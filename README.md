@@ -1,4 +1,4 @@
 # gitclonetest
 # fisrst time modify readme
 # branch test
-# creat branch && make a conflict
+# creat branch and make a conflict
