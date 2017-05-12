@@ -7,4 +7,5 @@ $ git config --global alias.co checkout
 $ git config --global alias.ci commit
 $ git config --global alias.br branch
 # vim editing
+# vim edit and merge
 # log show conflict map
