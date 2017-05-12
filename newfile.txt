@@ -1,3 +1,8 @@
 # online modify github file and pull down
 # pull and push
 online edit github file
+配置别名
+$ git config --global alias.st status
+$ git config --global alias.co checkout
+$ git config --global alias.ci commit
+$ git config --global alias.br branch
