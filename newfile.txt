@@ -10,3 +10,4 @@ $ git config --global alias.br branch
 # vim edit and merge
 # log show conflict map
 # karbonn qvga power onoff gif
+# vim edit and test git diff
