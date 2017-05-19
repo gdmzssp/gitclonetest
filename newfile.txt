@@ -13,4 +13,4 @@ $ git config --global alias.br branch
 # vim edit and test git diff
 # edit file 20170519
 # cerate iss404 and edit file
-
+# test stash and apply stash
